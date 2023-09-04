@@ -2,5 +2,4 @@
 
 npm run build
 
-sleep 60
-exit 1
+# push from cli - 3
