@@ -2,4 +2,4 @@
 
 npm run build
 
-# push from cli
+# push from cli - 2
