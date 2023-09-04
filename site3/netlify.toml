@@ -1,0 +1,4 @@
+[build]
+  base = "site3/"
+  command = "./build.sh"
+  publish = ".next"
