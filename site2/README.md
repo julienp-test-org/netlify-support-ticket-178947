@@ -1,4 +1,4 @@
-Test 2 - 6
+Test 2 - 7
 
 # Next + Netlify Starter
 
